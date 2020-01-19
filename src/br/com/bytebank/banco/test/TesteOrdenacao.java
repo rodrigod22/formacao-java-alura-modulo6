@@ -46,7 +46,7 @@ public class TesteOrdenacao {
 	}
 
 }
-
+ 
 class ComparaContas implements Comparator<Conta>{
 
 	public int compare(Conta o1, Conta o2) {
